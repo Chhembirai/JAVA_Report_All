@@ -1,0 +1,8 @@
+#ignore vscode settings
+.vscode/
+
+#ignore JSON files
+*.json
+
+#ignore text files
+*.txt
